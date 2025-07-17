@@ -51,3 +51,6 @@ require("nvim-treesitter.configs").setup({
 
 -- Status line
 require("lualine").setup()
+
+-- Keymaps
+require("config.keymaps")
